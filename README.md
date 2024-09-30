@@ -1,1 +1,1 @@
-# anime reccomendation system
+# Anime Recomendation System
